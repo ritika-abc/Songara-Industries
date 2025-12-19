@@ -1176,7 +1176,7 @@ textarea.is-invalid {
 }
 
 .th-mobile-menu ul li a:before {
-    content: '\f105';
+    /* content: '\f105'; */
     font-family: var(--icon-font);
     position: absolute;
     left: 0;
@@ -1227,7 +1227,7 @@ textarea.is-invalid {
 }
 
 .th-mobile-menu ul .th-item-has-children>a:after {
-    content: "\f067";
+    /* content: "\f067"; */
     font-family: var(--icon-font);
     width: 22px;
     height: 22px;
