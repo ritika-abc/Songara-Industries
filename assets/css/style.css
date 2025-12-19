@@ -1226,6 +1226,9 @@ textarea.is-invalid {
     font-family: var(--icon-font)
 }
 
+.box-icon{
+    margin: auto;
+}
 .th-mobile-menu ul .th-item-has-children>a:after {
     /* content: "\f067"; */
     font-family: var(--icon-font);
